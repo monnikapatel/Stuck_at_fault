@@ -1,2 +1,2 @@
 # Stuck_at_fault
-Detection faults i.e. Stuck_at_fault_0  or Stuck_at_falut_1
+Detection faults i.e. Stuck at fault(0)  or Stuck at falut (1)
