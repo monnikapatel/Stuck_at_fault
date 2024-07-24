@@ -6,7 +6,7 @@ module Circuit (
 );
 
   wire net_e, net_f, net_g, net_h;
-
+// a circuit consisting of 4 inputs
   assign net_e = A ^ B;
   assign net_f = C & D;
   assign net_g = ~net_e;
